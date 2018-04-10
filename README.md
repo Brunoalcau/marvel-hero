@@ -1,5 +1,5 @@
-# Marvel Heros
-Projeto Marvel heros [Heros](https://developer.marvel.com/account)
+# Marvel Heroes
+Projeto Marvel heroes [Heroes](https://developer.marvel.com/account)
 
 ## Ambiente de desenvolvimento
 
